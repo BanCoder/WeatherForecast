@@ -1,0 +1,14 @@
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.weatherForecast.resources
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.Up2Date
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Vladimir\OneDrive\Desktop\Мои разработки\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe.config

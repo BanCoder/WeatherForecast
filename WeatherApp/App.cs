@@ -12,7 +12,6 @@ namespace WeatherApp
 			var builder = new ConfigurationBuilder()
 				.SetBasePath(Directory.GetCurrentDirectory())
 				.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
-
 			Configuration = builder.Build();
 			Settings = Configuration.GetSection("APISettings").Get<AppSettings>();
 		}

@@ -1,13 +1,12 @@
-﻿using System;
+﻿using System.Net.Http;
 using System.Threading.Tasks;
-using System.Net.Http;
 using System.Windows.Forms;
 namespace WeatherApp
 {
 	internal class Requester
 	{
-		private const string _apiKey = "3972a0d14725ca68d81f58d5ed724f47";
-		private const string _baseUrl = "https://api.openweathermap.org/data/2.5/weather";
+		private  string _apiKey = App.Settings.ApiKey;
+		private string _baseUrl = App.Settings.BaseUrl; 
 		public async Task<WeatherData> GetWeatherDataAsync(string cityName)
 		{
 			string requestUrl = $"{_baseUrl}?q={cityName}&appid={_apiKey}&units=metric&lang=ru";

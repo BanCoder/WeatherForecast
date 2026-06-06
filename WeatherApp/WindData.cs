@@ -2,7 +2,7 @@
 using Newtonsoft.Json; 
 namespace WeatherApp
 {
-	internal class WindData
+	public class WindData
 	{
 		[JsonProperty("speed")]
 		public double Speed;

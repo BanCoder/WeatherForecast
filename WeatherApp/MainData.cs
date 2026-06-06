@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 namespace WeatherApp
 {
-	internal class MainData
+	public class MainData
 	{
 		[JsonProperty("temp")]
 		public float Temperature { get; set; }

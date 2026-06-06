@@ -1,8 +1,7 @@
-﻿using System;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 namespace WeatherApp
 {
-	internal class WeatherDescription
+	public class WeatherDescription
 	{
 		[JsonProperty("main")]
 		public string Main { get; set; }

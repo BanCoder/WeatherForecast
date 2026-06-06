@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 namespace WeatherApp
 {
-	internal class WeatherData
+	public class WeatherData
 	{
 		[JsonProperty("name")]
 		public string CityName { get; set; }

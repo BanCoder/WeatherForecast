@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace WeatherApp
 {
-	internal class Requester
+	public class Requester
 	{
 		private  string _apiKey = App.Settings.ApiKey;
 		private string _baseUrl = App.Settings.BaseUrl; 

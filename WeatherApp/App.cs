@@ -3,7 +3,7 @@ using System.IO;
 
 namespace WeatherApp
 {
-	internal static class App
+	public static class App
 	{
 		public static IConfiguration Configuration { get; private set; }
 		public static AppSettings Settings { get; private set; }

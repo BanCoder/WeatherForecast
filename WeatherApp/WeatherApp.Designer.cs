@@ -80,7 +80,7 @@
 			this.cityNameLbl.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.cityNameLbl.AutoSize = true;
 			this.cityNameLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.cityNameLbl.Location = new System.Drawing.Point(10, 26);
+			this.cityNameLbl.Location = new System.Drawing.Point(9, 26);
 			this.cityNameLbl.Name = "cityNameLbl";
 			this.cityNameLbl.Size = new System.Drawing.Size(156, 20);
 			this.cityNameLbl.TabIndex = 3;
@@ -92,7 +92,7 @@
 			this.temperatureLbl.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.temperatureLbl.AutoSize = true;
 			this.temperatureLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.temperatureLbl.Location = new System.Drawing.Point(180, 26);
+			this.temperatureLbl.Location = new System.Drawing.Point(179, 26);
 			this.temperatureLbl.Name = "temperatureLbl";
 			this.temperatureLbl.Size = new System.Drawing.Size(119, 20);
 			this.temperatureLbl.TabIndex = 4;
@@ -104,7 +104,7 @@
 			this.descriptionLbl.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.descriptionLbl.AutoSize = true;
 			this.descriptionLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.descriptionLbl.Location = new System.Drawing.Point(352, 26);
+			this.descriptionLbl.Location = new System.Drawing.Point(351, 26);
 			this.descriptionLbl.Name = "descriptionLbl";
 			this.descriptionLbl.Size = new System.Drawing.Size(91, 20);
 			this.descriptionLbl.TabIndex = 5;
@@ -116,7 +116,7 @@
 			this.humidityLbl.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.humidityLbl.AutoSize = true;
 			this.humidityLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.humidityLbl.Location = new System.Drawing.Point(509, 26);
+			this.humidityLbl.Location = new System.Drawing.Point(508, 26);
 			this.humidityLbl.Name = "humidityLbl";
 			this.humidityLbl.Size = new System.Drawing.Size(103, 20);
 			this.humidityLbl.TabIndex = 6;
@@ -158,7 +158,7 @@
 			this.displayCityName.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.displayCityName.AutoSize = true;
 			this.displayCityName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.displayCityName.Location = new System.Drawing.Point(81, 100);
+			this.displayCityName.Location = new System.Drawing.Point(80, 100);
 			this.displayCityName.Name = "displayCityName";
 			this.displayCityName.Size = new System.Drawing.Size(14, 20);
 			this.displayCityName.TabIndex = 10;
@@ -169,7 +169,7 @@
 			this.displayTemperature.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.displayTemperature.AutoSize = true;
 			this.displayTemperature.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.displayTemperature.Location = new System.Drawing.Point(232, 100);
+			this.displayTemperature.Location = new System.Drawing.Point(231, 100);
 			this.displayTemperature.Name = "displayTemperature";
 			this.displayTemperature.Size = new System.Drawing.Size(14, 20);
 			this.displayTemperature.TabIndex = 11;
@@ -181,7 +181,7 @@
 			this.displayDescription.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.displayDescription.AutoSize = true;
 			this.displayDescription.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.displayDescription.Location = new System.Drawing.Point(391, 100);
+			this.displayDescription.Location = new System.Drawing.Point(390, 100);
 			this.displayDescription.Name = "displayDescription";
 			this.displayDescription.Size = new System.Drawing.Size(14, 20);
 			this.displayDescription.TabIndex = 12;
@@ -193,7 +193,7 @@
 			this.displayHumidity.Anchor = System.Windows.Forms.AnchorStyles.None;
 			this.displayHumidity.AutoSize = true;
 			this.displayHumidity.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.displayHumidity.Location = new System.Drawing.Point(554, 100);
+			this.displayHumidity.Location = new System.Drawing.Point(553, 100);
 			this.displayHumidity.Name = "displayHumidity";
 			this.displayHumidity.Size = new System.Drawing.Size(14, 20);
 			this.displayHumidity.TabIndex = 13;
@@ -219,7 +219,7 @@
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 42.02898F));
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 190F));
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 136F));
-			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 152F));
+			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 153F));
 			this.tableLayoutPanel1.Controls.Add(this.displayHumidity, 3, 1);
 			this.tableLayoutPanel1.Controls.Add(this.temperatureLbl, 1, 0);
 			this.tableLayoutPanel1.Controls.Add(this.windSpeedLbl, 4, 0);
